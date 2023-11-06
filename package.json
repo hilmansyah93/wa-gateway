@@ -28,7 +28,7 @@
 	},
 	"homepage": "https://github.com/fawwaz37/whatsapp-gateway#readme",
 	"dependencies": {
-		"@WhiskeySockets/baileys": "^6.1.0",
+		"@whiskeysockets/bailey": "^6.5.0",
 		"@adiwajshing/keyed-db": "^0.2.4",
 		"@hapi/boom": "^9.1.3",
 		"axios": "^0.27.2",
